@@ -28,7 +28,7 @@ structured language for describing and generating images.
 ---
 
 ## 🛠️ Technologies Used  
-**C**, **Java**, **HTML**, **CSS**, **Ruby**, **Scala**, **SQL**  
+**C**, **Java**, **HTML**, **CSS**, **Ruby**, **Scala**, **Haskell**, **Wollok**, **SQL**  
 
 ---
 
