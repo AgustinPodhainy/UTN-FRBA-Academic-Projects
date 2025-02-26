@@ -34,4 +34,5 @@ structured language for describing and generating images.
 
 ## 📬 Contact  
 If you have any questions or want to discuss any of these projects, feel free to reach out!  
-
+##
+📧 Email: [agustinpodhainy2@gmail.com](mailto:agustinpodhainy2@gmail.com)
