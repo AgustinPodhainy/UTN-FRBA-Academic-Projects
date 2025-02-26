@@ -1,7 +1,6 @@
 # 🎓 UTN FRBA Academic Projects  
 
-Welcome to my GitHub repository! This is a collection of projects I developed as part of my studies at  
-Universidad Tecnológica Nacional, Facultad Regional Buenos Aires (UTN FRBA).  
+Welcome to my GitHub repository! This is a collection of projects I developed as part of my studies at Universidad Tecnológica Nacional, Facultad Regional Buenos Aires (UTN FRBA).  
 
 Some of these projects were individual, while others were developed collaboratively as part of a team.  
 
