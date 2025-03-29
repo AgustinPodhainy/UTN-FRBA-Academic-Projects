@@ -45,5 +45,5 @@ If you have any questions or want to discuss any of these projects, feel free to
 
 📧 Email: [agustinpodhainy2@gmail.com](mailto:agustinpodhainy2@gmail.com)
 
-💼 **LinkedIn:** [Agustín Podhainy Vignola](www.linkedin.com/in/agustin-podhainy)  
+💼 **LinkedIn:** [Agustín Podhainy Vignola](www.linkedin.com/in/agustin-podhainy/)  
 ##
