@@ -4,7 +4,7 @@ Welcome to my GitHub repository! This is a collection of projects I developed as
 
 Some of these projects were individual, while others were developed collaboratively as part of a team.  
 
-<img src="resources/portada-portafolio.png" alt="Portada Portafolio">
+<img src="img/imgPortfolio.jpg" alt="Portada Portafolio">
 ---
 
 ## 📌 Projects  
